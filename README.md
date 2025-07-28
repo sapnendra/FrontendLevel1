@@ -1,1 +1,1 @@
-# This repository has frontend projects
+# This repository has all frontend projects
